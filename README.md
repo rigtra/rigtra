@@ -10,5 +10,5 @@ Senior Product Manager working on AI and conversational platforms.
 - Portfolio: [rms.my.id](https://rms.my.id)
 
 ### Connect
-- LinkedIn: [linkedin.com/in/rifki-mega-saputra](https://linkedin.com/in/rifki-mega-saputra)
+- LinkedIn: [linkedin.com/in/rifkimegasaputra](https://linkedin.com/in/rifkimegasaputra)
 - Email: rifki@ipandai.ai.id
