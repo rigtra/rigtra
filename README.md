@@ -6,7 +6,7 @@
 Senior Product Manager working on AI and conversational platforms.
 
 - Currently building: [ipandai](https://ipandai.ai.id)
-- Previously: [TikTok Shop by Tokopedia / ByteDance]
+- Previously: SPM at TikTok Shop by Tokopedia / ByteDance
 - Portfolio: [rms.my.id](https://rms.my.id)
 
 ### Connect
